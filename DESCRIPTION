@@ -77,7 +77,7 @@ Suggests:
     testthat (>= 3.0.0),
     qs,
     xml2
-Remotes: drieslab/GiottoUtils
+Remotes: CSJ608/GiottoUtils
 Config/testthat/edition: 3
 Collate: 
     'package_imports.R'
